@@ -14,7 +14,7 @@ Aquí solo reemplaza "mi_imagen.png" por la imagen que quieras en tu carpeta ./a
   <a href="">
     <img src="https://img.shields.io/badge/WebPage-7cebf5?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
- <a href="https://www.linkedin.com/in/fabian-salamandra/">
+<a href="https://www.linkedin.com/in/fabian-salamandra/">
   <img src="https://img.shields.io/badge/LinkedIn-7cebf5?style=for-the-badge&logo=linkedin&logoColor=black">
 </a>
   <a href="mailto:davids.dvm@gmail.com">
