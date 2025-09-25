@@ -45,11 +45,8 @@ Me gusta <strong>emprender</strong> y siempre estoy en busca de nuevos retos y p
 <p align="center">
   <code><a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js"></a></code>
   <code><a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React"></a></code>
-  <code><a href="https://angular.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="42" alt="Angular"></a></code>
   <code><a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript"></a></code>
   <code><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript"></a></code>
-  <code><a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" height="42" alt="React Native"></a></code>
-  <code><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"></a></code>
   <code><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="42" alt="FastAPI"></a></code>
   <code><a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="Bash"></a></code>
   <code><a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS"></a></code>
@@ -63,6 +60,9 @@ Me gusta <strong>emprender</strong> y siempre estoy en busca de nuevos retos y p
 
 <h1 align="center"> Lenguajes/Frameworks que estoy aprendiendo: </h1>
 <p align="center">
+  <code><a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" height="42" alt="React Native"></a></code>
+  <code><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"></a></code>
+  <code><a href="https://angular.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="42" alt="Angular"></a></code>
   <code><a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="Django"></a></code>
   <code><a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="Spring"></a></code>
   <code><a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java"></a></code>
