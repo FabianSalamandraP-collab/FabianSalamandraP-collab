@@ -1,13 +1,8 @@
-<!-- 
-SECCIÓN DEL GIF (CAMBIADO A IMAGEN LOCAL)
-Aquí solo reemplaza "mi_imagen.png" por la imagen que quieras en tu carpeta ./assets/
--->
-<a href="https://github.com/FabianSalamandraP-collab">
-  <p align="center">
+<div align="center">
+  <a href="https://github.com/FabianSalamandraP-collab">
     <img src="./assets/clothesSurOccidente.png" alt="Logo Suroccidente" width="400">
-  </p>
-</a>
-
+  </a>
+</div>
 <h1 align="center">✨ Próximamente SUR OCCIDENTE ✨</h1>
 
 <p align="center">
